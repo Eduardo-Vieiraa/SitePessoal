@@ -25,28 +25,30 @@ header{
     align-items: center;
     justify-content: space-around;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid #3f3d3da8;
     border-radius: 4px;
 }
 
-.profile-pictue img{
+.profile-picture img{
     width: 180px;
-    height: 250px;
-    border-radius: 500%;
+    height: 220px;
+    border-radius: 10%;
     object-fit: cover;
-    border: 2px solid #ddd;
+    border: 2px solid #fffcfc;
+
+  
 }
 
 .profile-details{
-    flex: 1;
-    margin-left: 20px;
+   flex: 1;
+   margin-left: 20px;
 }
 
 footer{
     text-align: center;
     margin-top: 20px;
     padding-top: 10px;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #3f3d3da8;
 }
 
 .user-content{
